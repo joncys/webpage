@@ -47,12 +47,12 @@ const Home: NextPage = () => {
           <span className="text-keyword">build</span>
           <span className="text-exta">(</span>
           <a
-            href="https://tromzo.com"
+            href="https://algori.ai"
             target="_blank"
             rel="noreferrer"
-            className="bg-tromzo text-white"
+            className="bg-algori text-black"
           >
-            &apos;tromzo&apos;
+            &apos;algori&apos;
           </a>
           <span className="text-exta">)</span>
         </div>

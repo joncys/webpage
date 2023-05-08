@@ -10,7 +10,7 @@ module.exports = {
         string: '#b4db81',
         keyword: '#91dae6',
         exta: '#62656c',
-        tromzo: '#d5844a',
+        algori: '#00deaa',
         atokaita: '#4a9dbc',
         '30smtnakwrd': '#676767',
         linkedin: '#3375b0',
