@@ -34,27 +34,13 @@ const Home: NextPage = () => {
           <Image src="/sj.png" alt="Photo of me" width="56" height="56" />
           <div className="flex flex-col ml-6">
             <div className="text-exta">
-              &#47;&#47; hey there, my name is Simonas Jončys
+              &#47;&#47; 👋🏻 hey there, my name is Simonas Jončys
             </div>
             <div className="text-exta">
               &#47;&#47; this webpage might be under &quot;permanent
               construction&quot;
             </div>
           </div>
-        </div>
-        <div>&nbsp;</div>
-        <div>
-          <span className="text-keyword">build</span>
-          <span className="text-exta">(</span>
-          <a
-            href="https://algori.ai"
-            target="_blank"
-            rel="noreferrer"
-            className="bg-algori text-black"
-          >
-            &apos;algori&apos;
-          </a>
-          <span className="text-exta">)</span>
         </div>
         <div>&nbsp;</div>
         <div>
